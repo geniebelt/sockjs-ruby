@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = ::Gem::Requirement.new('>= 3.0')
 
   # Dependencies
-  s.add_dependency 'faye-websocket', '~> 0.11.3'
+  s.add_dependency 'faye-websocket', '~> 0.13.0'
   s.add_dependency 'json'
   s.add_dependency 'racc'
   s.add_dependency 'rack'
